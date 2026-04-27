@@ -57,7 +57,7 @@ public class NotSistemi {
 
         while (true) {
              System.out.println("\n1- Ders ekle");
-             System.out.println("2- Rapor göster");
+             System.out.println("2- durum göster");
              System.out.println("3- Çıkış");
              System.out.print("Seçim: ");
 
